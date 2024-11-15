@@ -1,0 +1,16 @@
+{
+    "error_code_map": [
+        {
+            "code": 10000,
+            "message": "Unauthorized"
+        },
+        {
+            "code": 81053,
+            "message": "Duplicate entry exists"
+        },
+        {
+            "code": 500,
+            "message": "Internal Server Error"
+        }
+    ]
+}
